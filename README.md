@@ -14,3 +14,9 @@ Mobile engineer interested in iOS, LLMs, UI and security
 <img src="https://github-readme-stats.vercel.app/api?username=yoadriancodes&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoadriancodes&theme=radical&title_color=8E2DE2&text_color=fff)
+
+💬 Reach me ☕
+
+Linkedin: https://www.linkedin.com/in/adrian-gonzalez-cortes
+
+Medium: https://medium.com/@yoadriancodes
